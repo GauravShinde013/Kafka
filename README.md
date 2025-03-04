@@ -3,10 +3,13 @@ The system is designed to handle order processing, stock management, email notif
 Each service communicates asynchronously using an event-driven approach, ensuring scalability and resilience.
 
 | Key Features |
-a. Event-Driven Architecture - Services communicate asynchronously using events
-b. Microservices-based - Modular approach for scalability and independent deployments
-c. Decoupled Services - Each service focuses on a single responsibility
-d. Improved Fault Tolerance - Reduced dependency between services ensures high availability
+a. Event-Driven Architecture - Services communicate asynchronously using events.
+
+b. Microservices-based - Modular approach for scalability and independent deployments.
+
+c. Decoupled Services - Each service focuses on a single responsibility.
+
+d. Improved Fault Tolerance - Reduced dependency between services ensures high availability.
 
 | Microservices & Event Flow |
 1. Order Service
